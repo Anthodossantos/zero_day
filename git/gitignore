@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]~ /zero_day/git/.gitignore
+mv [[:upper:]]*~ /zero_day/git/.gitignore
