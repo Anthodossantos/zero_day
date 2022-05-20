@@ -1,2 +1,2 @@
 #!/bin/bash
-git config --global core.excludesfile ~/.gitignore
+mv [[:upper:]]~ /zero_day/git/.gitignore
